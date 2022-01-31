@@ -1,0 +1,133 @@
+10 Id : 0 IdNode : 0
+ Id : 5 IdNode : 1
+ Id : 11 IdNode : 2
+ Id : 1 IdNode : 3
+ Id : 4 IdNode : 4
+ Id : 14 IdNode : 5
+ Id : 19 IdNode : 6
+ Id : 2 IdNode : 7
+ Id : 18 IdNode : 8
+ Id : 3 IdNode : 9
+ Id : 20 IdNode : 10
+ Id : 12 IdNode : 11
+ Id : 9 IdNode : 12
+ Id : 6 IdNode : 13
+ Id : 7 IdNode : 14
+ Id : 8 IdNode : 15
+ Id : 17 IdNode : 16
+ Id : 16 IdNode : 17
+ Id : 10 IdNode : 18
+ Id : 13 IdNode : 19
+ Id : 15 IdNode : 20
+ Vertice atual: 11
+Peso atual: 6
+Valor do gap atual: 0
+Valor do gapNode: 0
+Valos do gapFinal: 0
+ Vertice atual: 4
+Peso atual: 11
+Valor do gap atual: 0
+Valor do gapNode: 5
+Valos do gapFinal: 1.66667
+ Vertice atual: 19
+Peso atual: 8
+Valor do gap atual: 0
+Valor do gapNode: 2
+Valos do gapFinal: 1
+ Vertice atual: 2
+Peso atual: 10
+Valor do gap atual: 0
+Valor do gapNode: 4
+Valos do gapFinal: 2
+ Vertice atual: 18
+Peso atual: 1
+Valor do gap atual: 0
+Valor do gapNode: 5
+Valos do gapFinal: 1.25
+ Vertice atual: 3
+Peso atual: 4
+Valor do gap atual: 0
+Valor do gapNode: 2
+Valos do gapFinal: 2
+ Vertice atual: 20
+Peso atual: 9
+Valor do gap atual: 0
+Valor do gapNode: 3
+Valos do gapFinal: 0.75
+ Vertice atual: 12
+Peso atual: 2
+Valor do gap atual: 0
+Valor do gapNode: 4
+Valos do gapFinal: 2
+ Vertice atual: 9
+Peso atual: 7
+Valor do gap atual: 0
+Valor do gapNode: 1
+Valos do gapFinal: 0.25
+ Vertice atual: 6
+Peso atual: 3
+Valor do gap atual: 0
+Valor do gapNode: 3
+Valos do gapFinal: 1
+ Vertice atual: 7
+Peso atual: 4
+Valor do gap atual: 0
+Valor do gapNode: 2
+Valos do gapFinal: 2
+ Vertice atual: 8
+Peso atual: 12
+Valor do gap atual: 0
+Valor do gapNode: 6
+Valos do gapFinal: 6
+ Vertice atual: 17
+Peso atual: 1
+Valor do gap atual: 0
+Valor do gapNode: 5
+Valos do gapFinal: 2.5
+ Vertice atual: 16
+Peso atual: 3
+Valor do gap atual: 0
+Valor do gapNode: 3
+Valos do gapFinal: 1.5
+ Vertice atual: 10
+Peso atual: 1
+Valor do gap atual: 0
+Valor do gapNode: 5
+Valos do gapFinal: 2.5
+ Vertice atual: 13
+Peso atual: 7
+Valor do gap atual: 0
+Valor do gapNode: 1
+Valos do gapFinal: 0.5
+ Vertice atual: 15
+Peso atual: 2
+Valor do gap atual: 0
+Valor do gapNode: 4
+Valos do gapFinal: 2
+Gap do node 11 e: 0
+Gap do node 4 e: 1.66667
+Gap do node 19 e: 1
+Gap do node 2 e: 2
+Gap do node 18 e: 1.25
+Gap do node 3 e: 2
+Gap do node 20 e: 0.75
+Gap do node 12 e: 2
+Gap do node 9 e: 0.25
+Gap do node 6 e: 1
+Gap do node 7 e: 2
+Gap do node 8 e: 6
+Gap do node 17 e: 2.5
+Gap do node 16 e: 1.5
+Gap do node 10 e: 2.5
+Gap do node 13 e: 0.5
+Gap do node 15 e: 2
+Valor do cont: 0
+SET COR !  Vertice : 11 Cor : 0
+Id da aresta: 0
+Id da aresta: 20
+Id da aresta: 18
+ POSICAONODE : 0
+ Visitado  true
+ Vertice : 11 .getInDegree()3
+ PRINTADO O VERTICE QUE GRAU 1 : 0
+Começo do vectorWeightEdge: 11
